@@ -9,12 +9,12 @@
   h1 {
     color: purple;
     font: georgia, sans-serif;
-    font-size: 48px;
+    font-size: 72px;
   }
   p {
     color: purple;
     font: calibri, serif;
-    font-size: 36px;
+    font-size: 56px;
   }
   </style>
   <title>Birthday Card</title>
