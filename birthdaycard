@@ -1,12 +1,26 @@
 <!DOCTYPE html>
 <html>
+
 <head>
-<title>Birthday Card</title>
+  <style>
+  body {
+    background-color: lightskyblue;
+  }
+  h1 {
+    color: purple;
+    margin-left: 54px;
+  }
+  p {
+    color: purple;  
+    margin-left: 30px;
+  }
+  </style>
+  <title>Birthday Card</title>
 </head>
+
 <body>
-
-<h1>Have a good birthday</h1>
-<p>Happy birthday little boy</p>
-
+  <h1>Have a good birthday</h1>
+  <p>Happy birthday little boy</p>
 </body>
+
 </html>
