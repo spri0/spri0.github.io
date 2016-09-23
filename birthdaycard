@@ -6,6 +6,12 @@
   body {
     background-color: lightskyblue;
   }
+  .center {
+    margin: auto;
+    width: 75%;
+    border: 4px solid #73AD21;
+    padding: 14px;
+  }
   h1 {
     color: purple;
     font: georgia, sans-serif;
@@ -21,18 +27,21 @@
     border: 1px solid #ddd;
     border-radius: 4px;
     padding: 5px;
+    opacity: 0.7;
+    filter: alpha(opacity=70);
   }
-  img1 {
-    border: 1px solid #ddd;
-    border-radius: 4px;
-    padding: 5px;
+  .button {
+    background-color: #4CAF50;
+    border: none;
+    color: orange;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
   }
-  img2 {
-    border: 1px solid #ddd;
-    border-radius: 4px;
-    padding: 5px;
-  }
-
   </style>
   <title>Birthday Card</title>
 </head>
@@ -41,8 +50,9 @@
   <h1>Have a good birthday</h1>
   <p>Happy birthday little boy</p>
   <img src="heart.jpg" alt="heart1">
-  <img1 src="oheart.jpg" alt="heart2">
-  <img2 src="heavy-black-heart.jpg" alt="heart3">
+  <img src="oheart.jpg" alt="heart2">
+  <img src="heavy-black-heart.jpg" alt="heart3">
+  <button class="button">Heart Button</button>
 </body>
 
 </html>
