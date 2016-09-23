@@ -16,6 +16,22 @@
     font: calibri, serif;
     font-size: 56px;
   }
+  img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+  }
+  img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+  }
+  img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+  }
+
   </style>
   <title>Birthday Card</title>
 </head>
@@ -23,6 +39,9 @@
 <body>
   <h1>Have a good birthday</h1>
   <p>Happy birthday little boy</p>
+  <img src="heart.jpg" alt="heart1">
+  <img src="oheart.jpg" alt="heart2">
+  <img src="heavy-black-heart.jpg" alt="heart3">
 </body>
 
 </html>
